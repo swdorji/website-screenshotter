@@ -1,6 +1,6 @@
 # Website Screenshotter 📸
 
-This Python tool captures full-page screenshots of websites with just a few lines of code. Ideal for archiving, presentations, or monitoring visual changes to web pages.
+This Python tool captures full-page screenshots of websites with just a few lines of code. Ideal for archiving, presentations, or monitoring visual changes to web pages. This code is also great to help create before-and-after case studies for freelance web developers.
 
 ## Features
 
