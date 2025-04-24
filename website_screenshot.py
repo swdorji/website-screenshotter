@@ -79,6 +79,6 @@ def take_screenshots(playwright, base_url, output_dir, visited=None):
 with sync_playwright() as playwright:
     take_screenshots(
         playwright,
-        base_url="https://bfl.org.bt/",
-        output_dir="C:/Users/Creative/Desktop/Bhutan For Life Website Case Study"
+        base_url="https:exampleurl.com",
+        output_dir="C:/Your/Directory/Path/Here"
     )
