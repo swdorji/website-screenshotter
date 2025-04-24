@@ -27,7 +27,7 @@ def take_screenshots(playwright, base_url, output_dir, visited=None):
                     break
                 scroll_height = new_scroll_height
 
-            # Hide the chatbot (adjust the selector based on the chatbot's HTML structure)
+            # Hide the website chatbot (if there is one), adjust based on html structure
             page.evaluate("""
                 const chatbot = document.querySelector('chatway--container has-loaded'); 
                 if (chatbot) {
